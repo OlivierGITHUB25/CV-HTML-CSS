@@ -1,0 +1,4 @@
+le fichier index correspond à l'accueil.
+tester sur opéra dernière version, firefox dernière version, edge chromium.
+problème sur chormiun photo profil léger flou. 
+titre cliquable et certaines photos. 
